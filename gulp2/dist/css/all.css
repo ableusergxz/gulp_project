@@ -1,0 +1,16 @@
+body {
+  background: #fff;
+}
+body div {
+  font-size: 100px;
+}
+
+body {
+  font-size: 200px;
+}
+body div {
+  color: #f00;
+}
+body a {
+  font-size: 1200px;
+}
